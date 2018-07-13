@@ -1,0 +1,697 @@
+2015-03-27 15:21:25 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Module.php:461
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('', Array)
+#1 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php:95
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2015-03-27 15:21:25 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'dfsuj9ga5iegnipbm7j1g0hvo5'
+    '_csrf' => '30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s:32:\"Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C\";'
+    '_identity' => '7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds:16:\"[1,true,2592000]\";'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'salad:82'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=dfsuj9ga5iegnipbm7j1g0hvo5; _csrf=30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s%3A32%3A%22Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C%22%3B; _identity=7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds%3A16%3A%22%5B1%2Ctrue%2C2592000%5D%22%3B'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'salad'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '82'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/OpenServer/domains/salad/web/index.php'
+    'REMOTE_PORT' => '5162'
+    'REDIRECT_URL' => '/site/view_cat/iki_products'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/site/view_cat/iki_products'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1427458885.193
+    'REQUEST_TIME' => 1427458885
+    'argv' => []
+    'argc' => 0
+]
+2015-03-27 15:21:29 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Module.php:461
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('', Array)
+#1 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php:95
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2015-03-27 15:21:29 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'dfsuj9ga5iegnipbm7j1g0hvo5'
+    '_csrf' => '30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s:32:\"Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C\";'
+    '_identity' => '7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds:16:\"[1,true,2592000]\";'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'salad:82'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=dfsuj9ga5iegnipbm7j1g0hvo5; _csrf=30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s%3A32%3A%22Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C%22%3B; _identity=7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds%3A16%3A%22%5B1%2Ctrue%2C2592000%5D%22%3B'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'salad'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '82'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/OpenServer/domains/salad/web/index.php'
+    'REMOTE_PORT' => '5162'
+    'REDIRECT_URL' => '/site/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/site/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1427458889.16
+    'REQUEST_TIME' => 1427458889
+    'argv' => []
+    'argc' => 0
+]
+2015-03-27 15:21:31 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Module.php:461
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('', Array)
+#1 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php:95
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2015-03-27 15:21:31 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'dfsuj9ga5iegnipbm7j1g0hvo5'
+    '_csrf' => '30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s:32:\"Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C\";'
+    '_identity' => '7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds:16:\"[1,true,2592000]\";'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'salad:82'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=dfsuj9ga5iegnipbm7j1g0hvo5; _csrf=30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s%3A32%3A%22Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C%22%3B; _identity=7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds%3A16%3A%22%5B1%2Ctrue%2C2592000%5D%22%3B'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'salad'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '82'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/OpenServer/domains/salad/web/index.php'
+    'REMOTE_PORT' => '5162'
+    'REDIRECT_URL' => '/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1427458891.698
+    'REQUEST_TIME' => 1427458891
+    'argv' => []
+    'argc' => 0
+]
+2015-03-27 15:21:32 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Module.php:461
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('', Array)
+#1 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php:95
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2015-03-27 15:21:32 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'dfsuj9ga5iegnipbm7j1g0hvo5'
+    '_csrf' => '30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s:32:\"Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C\";'
+    '_identity' => '7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds:16:\"[1,true,2592000]\";'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'salad:82'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=dfsuj9ga5iegnipbm7j1g0hvo5; _csrf=30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s%3A32%3A%22Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C%22%3B; _identity=7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds%3A16%3A%22%5B1%2Ctrue%2C2592000%5D%22%3B'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'salad'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '82'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/OpenServer/domains/salad/web/index.php'
+    'REMOTE_PORT' => '5162'
+    'REDIRECT_URL' => '/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1427458892.861
+    'REQUEST_TIME' => 1427458892
+    'argv' => []
+    'argc' => 0
+]
+2015-03-27 15:24:32 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "site/view_cat".' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Module.php:461
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('site/view_cat', Array)
+#1 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php:95
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2015-03-27 15:24:32 [127.0.0.1][-][-][info][application] $_GET = [
+    'id' => 'maple_avenue_foods'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => 'dfsuj9ga5iegnipbm7j1g0hvo5'
+    '_csrf' => '30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s:32:\"Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C\";'
+    '_identity' => '7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds:16:\"[1,true,2592000]\";'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'salad:82'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=dfsuj9ga5iegnipbm7j1g0hvo5; _csrf=30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s%3A32%3A%22Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C%22%3B; _identity=7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds%3A16%3A%22%5B1%2Ctrue%2C2592000%5D%22%3B'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'salad'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '82'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/OpenServer/domains/salad/web/index.php'
+    'REMOTE_PORT' => '5285'
+    'REDIRECT_URL' => '/web/site/view_cat/maple_avenue_foods'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/web/site/view_cat/maple_avenue_foods'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1427459072.119
+    'REQUEST_TIME' => 1427459072
+    'argv' => []
+    'argc' => 0
+]
+2015-03-27 15:24:38 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Module.php:461
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('', Array)
+#1 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php:95
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2015-03-27 15:24:38 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'dfsuj9ga5iegnipbm7j1g0hvo5'
+    '_csrf' => '30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s:32:\"Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C\";'
+    '_identity' => '7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds:16:\"[1,true,2592000]\";'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'salad:82'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://salad:82/'
+    'HTTP_COOKIE' => 'PHPSESSID=dfsuj9ga5iegnipbm7j1g0hvo5; _csrf=30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s%3A32%3A%22Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C%22%3B; _identity=7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds%3A16%3A%22%5B1%2Ctrue%2C2592000%5D%22%3B'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'salad'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '82'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/OpenServer/domains/salad/web/index.php'
+    'REMOTE_PORT' => '5285'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/web/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1427459078.78
+    'REQUEST_TIME' => 1427459078
+    'argv' => []
+    'argc' => 0
+]
+2015-03-27 15:25:39 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Module.php:461
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('', Array)
+#1 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php:95
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2015-03-27 15:25:39 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'dfsuj9ga5iegnipbm7j1g0hvo5'
+    '_csrf' => '30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s:32:\"Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C\";'
+    '_identity' => '7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds:16:\"[1,true,2592000]\";'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'salad:82'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=dfsuj9ga5iegnipbm7j1g0hvo5; _csrf=30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s%3A32%3A%22Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C%22%3B; _identity=7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds%3A16%3A%22%5B1%2Ctrue%2C2592000%5D%22%3B'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'salad'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '82'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/OpenServer/domains/salad/web/index.php'
+    'REMOTE_PORT' => '5288'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/web/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1427459139.819
+    'REQUEST_TIME' => 1427459139
+    'argv' => []
+    'argc' => 0
+]
+2015-03-27 15:25:40 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Module.php:461
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('', Array)
+#1 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php:95
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2015-03-27 15:25:40 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'dfsuj9ga5iegnipbm7j1g0hvo5'
+    '_csrf' => '30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s:32:\"Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C\";'
+    '_identity' => '7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds:16:\"[1,true,2592000]\";'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'salad:82'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=dfsuj9ga5iegnipbm7j1g0hvo5; _csrf=30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s%3A32%3A%22Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C%22%3B; _identity=7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds%3A16%3A%22%5B1%2Ctrue%2C2592000%5D%22%3B'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'salad'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '82'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/OpenServer/domains/salad/web/index.php'
+    'REMOTE_PORT' => '5288'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/web/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1427459140.713
+    'REQUEST_TIME' => 1427459140
+    'argv' => []
+    'argc' => 0
+]
+2015-03-27 15:25:41 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Module.php:461
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('', Array)
+#1 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php:95
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2015-03-27 15:25:41 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'dfsuj9ga5iegnipbm7j1g0hvo5'
+    '_csrf' => '30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s:32:\"Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C\";'
+    '_identity' => '7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds:16:\"[1,true,2592000]\";'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'salad:82'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=dfsuj9ga5iegnipbm7j1g0hvo5; _csrf=30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s%3A32%3A%22Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C%22%3B; _identity=7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds%3A16%3A%22%5B1%2Ctrue%2C2592000%5D%22%3B'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'salad'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '82'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/OpenServer/domains/salad/web/index.php'
+    'REMOTE_PORT' => '5288'
+    'REDIRECT_URL' => '/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1427459141.896
+    'REQUEST_TIME' => 1427459141
+    'argv' => []
+    'argc' => 0
+]
+2015-03-27 15:25:43 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Module.php:461
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('', Array)
+#1 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php:95
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2015-03-27 15:25:43 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'dfsuj9ga5iegnipbm7j1g0hvo5'
+    '_csrf' => '30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s:32:\"Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C\";'
+    '_identity' => '7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds:16:\"[1,true,2592000]\";'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'salad:82'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=dfsuj9ga5iegnipbm7j1g0hvo5; _csrf=30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s%3A32%3A%22Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C%22%3B; _identity=7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds%3A16%3A%22%5B1%2Ctrue%2C2592000%5D%22%3B'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'salad'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '82'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/OpenServer/domains/salad/web/index.php'
+    'REMOTE_PORT' => '5288'
+    'REDIRECT_URL' => '/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1427459143.234
+    'REQUEST_TIME' => 1427459143
+    'argv' => []
+    'argc' => 0
+]
+2015-03-27 15:25:50 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Module.php:461
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('', Array)
+#1 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php:95
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2015-03-27 15:25:50 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'dfsuj9ga5iegnipbm7j1g0hvo5'
+    '_csrf' => '30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s:32:\"Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C\";'
+    '_identity' => '7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds:16:\"[1,true,2592000]\";'
+]
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'salad:82'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=dfsuj9ga5iegnipbm7j1g0hvo5; _csrf=30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s%3A32%3A%22Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C%22%3B; _identity=7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds%3A16%3A%22%5B1%2Ctrue%2C2592000%5D%22%3B'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'salad'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '82'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/OpenServer/domains/salad/web/index.php'
+    'REMOTE_PORT' => '5288'
+    'REDIRECT_URL' => '/web/site/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/site/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1427459150.889
+    'REQUEST_TIME' => 1427459150
+    'argv' => []
+    'argc' => 0
+]
+2015-03-27 15:25:54 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Module.php:461
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('', Array)
+#1 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\OpenServer\domains\salad\vendor\yiisoft\yii2\web\Application.php:95
+Stack trace:
+#0 D:\OpenServer\domains\salad\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\OpenServer\domains\salad\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2015-03-27 15:25:54 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => 'dfsuj9ga5iegnipbm7j1g0hvo5'
+    '_csrf' => '30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s:32:\"Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C\";'
+    '_identity' => '7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds:16:\"[1,true,2592000]\";'
+]
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'salad:82'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=dfsuj9ga5iegnipbm7j1g0hvo5; _csrf=30ca983a56090c4548e3ec22fbb1d5bbe4376fdb4cdffe620d3786b14b40cf74s%3A32%3A%22Zyyd2lnghz6jNhSH4BHS4r7r5vTfiq8C%22%3B; _identity=7c26267e78e8f0cce06857f83d083624137cef67235cbd4e63b4216d551c098ds%3A16%3A%22%5B1%2Ctrue%2C2592000%5D%22%3B'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => 'd:\\openserver\\modules\\php\\PHP-5.5\\ext;d:\\openserver\\modules\\php\\PHP-5.5\\pear;d:\\openserver\\modules\\php\\PHP-5.5\\pear\\bin;d:\\openserver\\modules\\php\\PHP-5.5;d:\\openserver\\modules\\imagemagick;d:\\openserver\\modules\\wget\\bin;d:\\openserver\\modules\\git;d:\\openserver\\modules\\git\\bin;d:\\openserver\\modules\\git\\mingw\\bin;d:\\openserver\\modules\\git\\cmd;d:\\openserver\\modules\\database\\MySQL-5.5\\bin;d:\\openserver\\modules\\http\\Apache-2.4\\bin;d:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Win32)'
+    'SERVER_NAME' => 'salad'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '82'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/OpenServer/domains/salad'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/OpenServer/domains/salad/web/index.php'
+    'REMOTE_PORT' => '5288'
+    'REDIRECT_URL' => '/web/site/index'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/site/index'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1427459154.154
+    'REQUEST_TIME' => 1427459154
+    'argv' => []
+    'argc' => 0
+]

@@ -1,0 +1,623 @@
+
+[10-Aug-2015 12:47:50 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/article/index.php on line 2
+[12-Aug-2015 17:38:08 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/article/index.php on line 2
+[12-Aug-2015 18:27:27 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[12-Aug-2015 18:34:50 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[18-Aug-2015 10:02:59 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[18-Aug-2015 10:03:32 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/article/browse.php on line 4
+[19-Aug-2015 16:17:53 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/article/index.php on line 2
+[19-Aug-2015 16:18:08 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[19-Aug-2015 16:19:47 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[19-Aug-2015 16:21:35 Europe/Helsinki] PHP Fatal error:  Class 'app\controllers\dektrium\user\models\User' not found in /home/novafaza/public_html/subdomains/saladapp/controllers/StoreCabinetController.php on line 37
+[19-Aug-2015 16:21:42 Europe/Helsinki] PHP Fatal error:  Class 'app\controllers\dektrium\user\model\User' not found in /home/novafaza/public_html/subdomains/saladapp/controllers/StoreCabinetController.php on line 37
+[19-Aug-2015 16:22:01 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[19-Aug-2015 16:22:28 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[19-Aug-2015 16:29:30 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/article/index.php on line 2
+[19-Aug-2015 16:29:40 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[19-Aug-2015 18:20:56 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[19-Aug-2015 18:21:00 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/article/index.php on line 2
+[19-Aug-2015 18:21:12 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/article/browse.php on line 4
+[19-Aug-2015 18:23:53 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[19-Aug-2015 18:24:44 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[19-Aug-2015 18:33:50 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[19-Aug-2015 18:42:11 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[19-Aug-2015 18:46:59 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[19-Aug-2015 18:53:30 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[19-Aug-2015 19:02:21 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[19-Aug-2015 19:02:56 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[19-Aug-2015 19:04:18 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/article/browse.php on line 4
+[19-Aug-2015 19:06:14 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[20-Aug-2015 11:07:36 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[20-Aug-2015 11:33:33 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[20-Aug-2015 13:33:37 Europe/Helsinki] PHP Fatal error:  Call to undefined function dektrium\user\models\getUserRole() in /home/novafaza/public_html/subdomains/saladapp/vendor/dektrium/yii2-user/models/UserSearch.php on line 69
+[20-Aug-2015 13:34:04 Europe/Helsinki] PHP Fatal error:  Class 'dektrium\user\models\Yii' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/dektrium/yii2-user/models/UserSearch.php on line 69
+[20-Aug-2015 13:45:18 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[20-Aug-2015 13:55:48 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[21-Aug-2015 12:53:11 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[21-Aug-2015 12:53:30 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[21-Aug-2015 13:40:43 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[21-Aug-2015 15:14:31 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/novafaza/public_html/subdomains/saladapp/components/cabinetMenu.php on line 63
+[21-Aug-2015 15:14:33 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/novafaza/public_html/subdomains/saladapp/components/cabinetMenu.php on line 63
+[21-Aug-2015 15:14:36 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/novafaza/public_html/subdomains/saladapp/components/cabinetMenu.php on line 63
+[21-Aug-2015 15:14:37 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/novafaza/public_html/subdomains/saladapp/components/cabinetMenu.php on line 63
+[21-Aug-2015 15:14:37 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/novafaza/public_html/subdomains/saladapp/components/cabinetMenu.php on line 63
+[21-Aug-2015 15:14:40 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[21-Aug-2015 15:14:40 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/novafaza/public_html/subdomains/saladapp/components/cabinetMenu.php on line 63
+[21-Aug-2015 15:15:34 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[21-Aug-2015 15:18:56 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[21-Aug-2015 15:25:47 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[21-Aug-2015 15:25:47 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/novafaza/public_html/subdomains/saladapp/components/cabinetMenu.php on line 89
+[21-Aug-2015 15:29:20 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[21-Aug-2015 15:34:24 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[21-Aug-2015 15:35:30 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[21-Aug-2015 15:41:50 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[21-Aug-2015 15:45:08 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[21-Aug-2015 16:21:36 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[21-Aug-2015 16:30:09 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[21-Aug-2015 16:42:32 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[21-Aug-2015 16:42:39 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[21-Aug-2015 16:56:42 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[22-Aug-2015 00:08:02 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[22-Aug-2015 00:16:02 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[25-Aug-2015 10:01:07 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[25-Aug-2015 10:07:11 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[25-Aug-2015 10:33:30 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[25-Aug-2015 12:29:31 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[25-Aug-2015 12:29:50 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[25-Aug-2015 12:58:52 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '?>' in /home/novafaza/public_html/subdomains/saladapp/views/store-cabinet/view.php on line 79
+[25-Aug-2015 12:59:04 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ';' in /home/novafaza/public_html/subdomains/saladapp/views/store-cabinet/view.php on line 79
+[25-Aug-2015 13:41:18 Europe/Helsinki] PHP Fatal error:  Call to undefined function a() in /home/novafaza/public_html/subdomains/saladapp/views/store-cabinet/view.php on line 80
+[25-Aug-2015 15:31:52 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/novafaza/public_html/subdomains/saladapp/views/store-cabinet/view.php on line 84
+[25-Aug-2015 15:31:58 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/novafaza/public_html/subdomains/saladapp/views/store-cabinet/view.php on line 84
+[25-Aug-2015 15:41:27 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[25-Aug-2015 15:54:45 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 10:36:33 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 11:03:59 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 11:05:40 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 11:06:17 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 11:07:43 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 11:08:03 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/article/index.php on line 2
+[26-Aug-2015 11:10:03 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 11:10:09 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 11:20:47 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 11:39:53 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 12:31:22 Europe/Helsinki] PHP Fatal error:  Class 'CHtml' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-cabinet/view.php on line 115
+[26-Aug-2015 12:32:17 Europe/Helsinki] PHP Fatal error:  Call to undefined method yii\helpers\Html::link() in /home/novafaza/public_html/subdomains/saladapp/views/store-cabinet/view.php on line 115
+[26-Aug-2015 12:35:47 Europe/Helsinki] PHP Fatal error:  Call to undefined method Yii::getPathOfAlias() in /home/novafaza/public_html/subdomains/saladapp/controllers/StoreCabinetController.php on line 183
+[26-Aug-2015 12:56:15 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 13:49:51 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 13:51:54 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 13:56:31 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 13:57:58 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 14:07:52 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 14:10:48 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 14:11:37 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 14:13:14 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 14:13:29 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 14:17:42 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 14:18:00 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 15:13:26 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 15:29:46 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 15:36:56 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 15:44:15 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 16:05:45 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 16:07:20 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 16:10:03 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 16:29:09 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 16:38:58 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 16:45:34 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 16:46:22 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[26-Aug-2015 16:46:35 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 16:47:46 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 16:51:58 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:05:49 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:06:00 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:06:07 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:06:49 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:07:01 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:07:01 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '<' in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 14
+[26-Aug-2015 17:07:06 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:08:07 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:08:42 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:08:46 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:09:20 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:10:09 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:10:22 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:12:36 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:14:02 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:18:32 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:19:49 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:22:16 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:48:08 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:55:43 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[26-Aug-2015 17:59:51 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 09:47:53 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 09:52:13 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 10:18:16 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 10:18:58 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[27-Aug-2015 10:23:20 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 10:41:20 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 11:19:49 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 12:12:31 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 12:28:07 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 12:29:48 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 12:31:09 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 12:31:26 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 12:32:22 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 12:42:11 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 12:48:34 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 12:56:52 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:01:43 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:04:46 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:06:29 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:06:53 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:13:59 Europe/Helsinki] PHP Fatal error:  Class 'app\controllers\ReportSearch' not found in /home/novafaza/public_html/subdomains/saladapp/controllers/AdminController.php on line 41
+[27-Aug-2015 13:14:23 Europe/Helsinki] PHP Fatal error:  Class 'app\controllers\Yii' not found in /home/novafaza/public_html/subdomains/saladapp/controllers/AdminController.php on line 43
+[27-Aug-2015 13:14:30 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:15:09 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:15:09 Europe/Helsinki] PHP Fatal error:  Class 'GridView' not found in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 42
+[27-Aug-2015 13:15:46 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:16:30 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:16:54 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:17:06 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:31:35 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:31:51 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:32:20 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:32:35 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:32:53 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:33:10 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:33:36 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:34:30 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:35:41 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:35:41 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 13:35:46 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:36:30 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:36:37 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:37:03 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:38:37 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:38:47 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:38:54 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:46:28 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:46:34 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:47:11 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:47:16 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:47:38 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:47:43 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:49:35 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:50:23 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:50:34 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:50:50 Europe/Helsinki] PHP Fatal error:  Call to undefined function app\models\getReportInfo() in /home/novafaza/public_html/subdomains/saladapp/models/ReportHistory.php on line 57
+[27-Aug-2015 13:55:35 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:57:10 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:57:10 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 29
+[27-Aug-2015 13:57:31 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 13:58:35 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 14:02:46 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 14:02:49 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 14:29:17 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 15:14:35 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 15:15:30 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 15:31:50 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 15:32:10 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 15:32:21 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 15:32:21 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ']' in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 29
+[27-Aug-2015 15:32:41 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 15:33:02 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 15:33:39 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 15:33:51 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 15:34:44 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 15:34:44 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 29
+[27-Aug-2015 15:34:58 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 15:35:23 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 15:35:29 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 15:35:41 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 15:50:18 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 15:51:11 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 15:51:17 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 15:51:51 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 16:02:41 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 16:21:53 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 16:24:33 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 16:24:33 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 16:24:45 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 16:24:45 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ']' in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 16:24:58 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 16:24:58 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ']' in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 16:27:11 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 16:28:08 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 16:28:29 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 16:30:29 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[27-Aug-2015 16:48:08 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 16:48:21 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 16:48:38 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 16:48:44 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 16:49:38 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 16:50:06 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 16:50:16 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 16:50:30 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 16:51:40 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 16:53:47 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 16:54:00 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 22:19:10 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/cabinet/index.php on line 2
+[27-Aug-2015 23:35:07 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:35:07 Europe/Helsinki] PHP Fatal error:  Call to undefined function getUsername() in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 29
+[27-Aug-2015 23:35:24 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:35:24 Europe/Helsinki] PHP Fatal error:  Call to undefined function username() in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 29
+[27-Aug-2015 23:36:53 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:36:53 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ']' in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:37:18 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:37:18 Europe/Helsinki] PHP Fatal error:  Call to undefined function GetUsername() in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:37:20 Europe/Helsinki] PHP Fatal error:  Call to undefined function GetUsername() in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:37:31 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:37:31 Europe/Helsinki] PHP Fatal error:  Call to undefined function getUsername() in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:38:22 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:38:22 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ']' in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:38:39 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:38:39 Europe/Helsinki] PHP Fatal error:  Call to a member function getUsername() on a non-object in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:38:41 Europe/Helsinki] PHP Fatal error:  Call to a member function getUsername() on a non-object in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:38:57 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:38:57 Europe/Helsinki] PHP Fatal error:  Call to a member function getUsername() on a non-object in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:39:03 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:39:03 Europe/Helsinki] PHP Fatal error:  Call to a member function getUsername() on a non-object in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:39:09 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:39:09 Europe/Helsinki] PHP Fatal error:  Call to a member function getUsername() on a non-object in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:39:34 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:39:34 Europe/Helsinki] PHP Fatal error:  Call to a member function getUsername() on a non-object in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:39:35 Europe/Helsinki] PHP Fatal error:  Call to a member function getUsername() on a non-object in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:40:12 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:40:12 Europe/Helsinki] PHP Fatal error:  Call to undefined function app\models\ReportHistory\getUsername() in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:40:49 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:41:03 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:41:20 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:41:20 Europe/Helsinki] PHP Fatal error:  Call to undefined function username() in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:41:25 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:41:25 Europe/Helsinki] PHP Fatal error:  Call to undefined function getUsername() in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:41:32 Europe/Helsinki] PHP Fatal error:  Call to undefined function getUsername() in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:42:48 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:42:48 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ']' in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:42:59 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:42:59 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ']' in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:43:18 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:43:18 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:43:29 Europe/Helsinki] PHP Warning:  Uncaught exception 'yii\base\ErrorException' with message 'The use statement with non-compound name 'Yii' has no effect' in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php:2
+Stack trace:
+#0 /home/novafaza/public_html/subdomains/saladapp/vendor/yiisoft/yii2/base/View.php(325): yii\base\ErrorHandler->handleError(2, 'The use stateme...', '/home/novafaza/...', 2, Array)
+#1 /home/novafaza/public_html/subdomains/saladapp/vendor/yiisoft/yii2/base/View.php(325): yii\base\View::renderPhpFile()
+#2 /home/novafaza/public_html/subdomains/saladapp/vendor/yiisoft/yii2/base/View.php(247): yii\base\View->renderPhpFile('/home/novafaza/...', Array)
+#3 /home/novafaza/public_html/subdomains/saladapp/vendor/yiisoft/yii2/base/View.php(149): yii\base\View->renderFile('/home/novafaza/...', Array, Object(app\controllers\AdminController))
+#4 /home/novafaza/public_html/subdomains/saladapp/vendor/yiisoft/yii2/base/Controller.php(367): yii\base\View->render('index', Array, Object(app\controllers\AdminController))
+#5 / in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:43:29 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '[', expecting ']' in Unknown on line 28
+[27-Aug-2015 23:43:40 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:43:57 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:44:06 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:44:06 Europe/Helsinki] PHP Fatal error:  Call to undefined function getUsername() in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:44:08 Europe/Helsinki] PHP Fatal error:  Call to undefined function getUsername() in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:45:15 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:45:15 Europe/Helsinki] PHP Fatal error:  Call to undefined function takeUsername() in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:46:26 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:46:29 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:46:39 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:46:57 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:46:57 Europe/Helsinki] PHP Fatal error:  Call to a member function getUsername() on a non-object in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:47:14 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:47:14 Europe/Helsinki] PHP Fatal error:  Call to undefined function getUsername() in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:47:15 Europe/Helsinki] PHP Fatal error:  Call to undefined function getUsername() in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:47:15 Europe/Helsinki] PHP Fatal error:  Call to undefined function getUsername() in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:47:15 Europe/Helsinki] PHP Fatal error:  Call to undefined function getUsername() in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:47:16 Europe/Helsinki] PHP Fatal error:  Call to undefined function getUsername() in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:47:21 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[27-Aug-2015 23:47:21 Europe/Helsinki] PHP Fatal error:  Call to undefined function getUsername() in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:47:52 Europe/Helsinki] PHP Fatal error:  Call to undefined function getUsername() in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[27-Aug-2015 23:48:26 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 10:40:36 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 10:44:28 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 10:44:40 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 10:44:51 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 10:45:30 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 10:45:30 Europe/Helsinki] PHP Fatal error:  Call to a member function userName() on a non-object in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[28-Aug-2015 10:45:53 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 10:45:53 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ']' in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[28-Aug-2015 10:45:56 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 10:45:56 Europe/Helsinki] PHP Fatal error:  Call to a member function userName() on a non-object in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[28-Aug-2015 10:46:02 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 10:46:02 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM), expecting ']' in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[28-Aug-2015 10:46:12 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 10:46:12 Europe/Helsinki] PHP Fatal error:  Call to a member function getUserName() on a non-object in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 30
+[28-Aug-2015 10:46:41 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 11:05:57 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 11:19:31 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 11:35:20 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 12:27:56 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 12:29:06 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 12:29:54 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 12:31:18 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 12:32:11 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 12:33:30 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 12:35:07 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 12:35:29 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 12:35:36 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 12:42:20 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 12:54:12 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 12:56:49 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 12:59:41 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 12:59:51 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 12:59:57 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 13:02:40 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 13:17:02 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 13:56:31 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 13:56:35 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 14:18:36 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 14:22:40 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 14:22:54 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 14:26:52 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 14:28:29 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 14:31:42 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 14:32:51 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 14:50:19 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 15:18:34 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 15:19:39 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 15:20:01 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 15:20:57 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ']' in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/index.php on line 38
+[28-Aug-2015 15:50:06 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 15:50:13 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 15:58:32 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 16:01:26 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 16:08:51 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 16:10:29 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 16:12:59 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 16:59:26 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 17:03:08 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 17:06:59 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ']' in /home/novafaza/public_html/subdomains/saladapp/models/ReportTypeSearch.php on line 56
+[28-Aug-2015 17:07:03 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ']' in /home/novafaza/public_html/subdomains/saladapp/models/ReportTypeSearch.php on line 56
+[28-Aug-2015 18:07:09 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home/novafaza/public_html/subdomains/saladapp/views/report-type/index.php on line 35
+[28-Aug-2015 18:08:06 Europe/Helsinki] PHP Fatal error:  Class 'app\models\ReportGroup' not found in /home/novafaza/public_html/subdomains/saladapp/models/ReportType.php on line 61
+[28-Aug-2015 18:20:07 Europe/Helsinki] PHP Fatal error:  Class 'app\models\ReportGroup' not found in /home/novafaza/public_html/subdomains/saladapp/models/ReportType.php on line 61
+[28-Aug-2015 18:20:12 Europe/Helsinki] PHP Fatal error:  Class 'app\models\ReportGroup' not found in /home/novafaza/public_html/subdomains/saladapp/models/ReportType.php on line 61
+[28-Aug-2015 18:20:16 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 18:21:10 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/novafaza/public_html/subdomains/saladapp/controllers/SiteController.php on line 48
+[28-Aug-2015 18:21:10 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/novafaza/public_html/subdomains/saladapp/controllers/SiteController.php on line 48
+[28-Aug-2015 18:23:24 Europe/Helsinki] PHP Fatal error:  Class 'app\models\ReportGroup' not found in /home/novafaza/public_html/subdomains/saladapp/models/ReportType.php on line 61
+[28-Aug-2015 22:57:50 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[28-Aug-2015 22:58:29 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/article/browse.php on line 4
+[29-Aug-2015 10:58:17 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 11:00:22 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 11:07:58 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 12:01:43 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 12:04:13 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 12:26:30 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 12:29:38 Europe/Helsinki] PHP Fatal error:  Call to a member function reportTypeInfo() on a non-object in /home/novafaza/public_html/subdomains/saladapp/views/report-type/index.php on line 41
+[29-Aug-2015 13:55:21 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 14:04:31 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 14:04:42 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 14:05:31 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 14:22:36 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 14:23:57 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 14:23:57 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 75
+[29-Aug-2015 14:24:12 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 14:27:28 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 14:30:08 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 14:33:17 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 14:35:47 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 15:13:39 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 15:22:11 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 15:27:53 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 15:40:34 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 15:40:34 Europe/Helsinki] PHP Fatal error:  Class 'Pjax' not found in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 16
+[29-Aug-2015 15:41:01 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 15:58:36 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 16:00:33 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 16:08:58 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 16:09:40 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 16:10:29 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 16:19:00 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 16:19:52 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 16:20:09 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 16:34:41 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 16:35:23 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 16:37:50 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[29-Aug-2015 16:39:50 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 10:24:12 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 10:44:30 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 11:06:20 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 11:07:23 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 11:08:50 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 11:09:57 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 11:47:16 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 12:04:09 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 12:28:56 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 12:31:53 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 12:34:36 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 12:48:09 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 12:48:52 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 13:01:55 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 13:04:52 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 13:06:54 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 13:24:46 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 13:26:52 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 13:38:56 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 13:41:16 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 13:44:50 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 13:51:21 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:13:39 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:24:47 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:26:56 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:32:19 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:32:57 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:33:10 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:33:43 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:33:52 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:34:23 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:34:32 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:34:45 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:34:57 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:35:30 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:35:43 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:36:03 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:42:18 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:42:40 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:43:02 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:43:35 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:43:54 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:45:36 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:47:05 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:51:09 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:52:35 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 14:53:35 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 15:05:43 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 15:12:02 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 15:16:35 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 15:30:13 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 15:30:43 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 15:30:56 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 15:32:13 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 15:33:13 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 15:33:36 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 15:54:30 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 15:54:47 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 15:55:13 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 15:56:32 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 15:57:02 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 16:00:15 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 16:00:33 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 16:00:37 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 18
+[31-Aug-2015 16:07:06 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 16:38:20 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 16:41:45 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 16:42:50 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 16:44:07 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 16:45:17 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 16:45:37 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 16:45:46 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 16:46:32 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 17:51:04 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 18:06:50 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 18:09:15 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 18:09:31 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 18:12:41 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 18:12:55 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 18:16:06 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 18:16:44 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 18:19:32 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 18:21:28 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[31-Aug-2015 18:21:57 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 09:52:20 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 10:15:59 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 10:32:15 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 10:35:43 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 10:36:30 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 10:38:14 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 10:51:05 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 11:07:16 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 11:08:54 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 11:09:19 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 11:12:49 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 11:13:28 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 11:26:57 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 11:28:36 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 11:29:16 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 11:30:39 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 11:31:06 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 11:31:58 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 11:32:21 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 11:33:30 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 11:56:36 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 11:57:22 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 11:58:31 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 12:01:02 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 12:52:57 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 12:56:02 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 12:56:06 Europe/Helsinki] PHP Fatal error:  Class 'app\controllers\Yii' not found in /home/novafaza/public_html/subdomains/saladapp/controllers/AdminController.php on line 126
+[01-Sep-2015 13:01:20 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 13:04:15 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 13:09:14 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 13:10:37 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 13:11:42 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 13:13:06 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 13:14:27 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 13:51:08 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 13:54:40 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 13:56:06 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 13:58:59 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 13:59:40 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 14:00:28 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 14:03:21 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 14:08:22 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 14:08:34 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 14:08:41 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 14:08:51 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 14:09:02 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 15:37:52 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 15:43:56 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 15:47:12 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 15:49:47 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 15:49:58 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 15:50:15 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 15:51:58 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 15:55:12 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 16:16:02 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 16:25:37 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 16:28:22 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 16:56:08 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 16:59:19 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 17:08:28 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 17:09:11 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 17:10:27 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 17:15:05 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 17:23:02 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 17:44:14 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[01-Sep-2015 17:56:13 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[02-Sep-2015 12:33:34 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[02-Sep-2015 12:36:15 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 19
+[02-Sep-2015 12:40:26 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 19
+[02-Sep-2015 12:40:28 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 19
+[02-Sep-2015 12:40:28 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 19
+[02-Sep-2015 12:40:46 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 19
+[02-Sep-2015 12:40:54 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 19
+[02-Sep-2015 12:41:00 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 19
+[02-Sep-2015 12:41:08 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 19
+[02-Sep-2015 12:41:19 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 19
+[02-Sep-2015 12:41:27 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 19
+[02-Sep-2015 12:41:32 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 19
+[02-Sep-2015 12:41:41 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 19
+[02-Sep-2015 12:56:13 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 19
+[02-Sep-2015 12:57:11 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 17
+[02-Sep-2015 12:57:13 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 17
+[02-Sep-2015 12:57:58 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 17
+[02-Sep-2015 12:58:15 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 17
+[02-Sep-2015 12:58:34 Europe/Helsinki] PHP Fatal error:  Class 'kartik\widget\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 17
+[02-Sep-2015 12:59:05 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 30
+[02-Sep-2015 12:59:09 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 30
+[02-Sep-2015 12:59:59 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 30
+[02-Sep-2015 13:00:00 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 30
+[02-Sep-2015 13:00:01 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 30
+[02-Sep-2015 13:00:48 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 30
+[02-Sep-2015 13:00:49 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 30
+[02-Sep-2015 13:00:51 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 30
+[02-Sep-2015 13:19:39 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 30
+[02-Sep-2015 13:20:22 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 30
+[02-Sep-2015 13:25:03 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit1cc295e39d53ffe08b2d242804db5e24' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 8
+[02-Sep-2015 13:25:04 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit1cc295e39d53ffe08b2d242804db5e24' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 8
+[02-Sep-2015 13:25:12 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 30
+[02-Sep-2015 13:39:36 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit84bf30872584bc17c373e945cd5f5f1c' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 7
+[02-Sep-2015 13:39:39 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit84bf30872584bc17c373e945cd5f5f1c' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 7
+[02-Sep-2015 13:39:41 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit84bf30872584bc17c373e945cd5f5f1c' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 7
+[02-Sep-2015 13:39:42 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit84bf30872584bc17c373e945cd5f5f1c' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 7
+[02-Sep-2015 13:39:44 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit84bf30872584bc17c373e945cd5f5f1c' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 7
+[02-Sep-2015 13:39:47 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit84bf30872584bc17c373e945cd5f5f1c' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 7
+[02-Sep-2015 13:39:49 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit84bf30872584bc17c373e945cd5f5f1c' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 7
+[02-Sep-2015 13:39:51 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit84bf30872584bc17c373e945cd5f5f1c' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 7
+[02-Sep-2015 13:39:56 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit84bf30872584bc17c373e945cd5f5f1c' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 7
+[02-Sep-2015 13:39:57 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit84bf30872584bc17c373e945cd5f5f1c' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 7
+[02-Sep-2015 13:39:58 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit84bf30872584bc17c373e945cd5f5f1c' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 7
+[02-Sep-2015 13:39:58 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit84bf30872584bc17c373e945cd5f5f1c' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 7
+[02-Sep-2015 13:39:58 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit84bf30872584bc17c373e945cd5f5f1c' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 7
+[02-Sep-2015 13:39:59 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit84bf30872584bc17c373e945cd5f5f1c' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 7
+[02-Sep-2015 13:40:01 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit84bf30872584bc17c373e945cd5f5f1c' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 7
+[02-Sep-2015 13:40:02 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit84bf30872584bc17c373e945cd5f5f1c' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 7
+[02-Sep-2015 13:40:03 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit84bf30872584bc17c373e945cd5f5f1c' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 7
+[02-Sep-2015 13:40:03 Europe/Helsinki] PHP Fatal error:  Class 'ComposerAutoloaderInit84bf30872584bc17c373e945cd5f5f1c' not found in /home/novafaza/public_html/subdomains/saladapp/vendor/autoload.php on line 7
+[02-Sep-2015 13:40:12 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[02-Sep-2015 13:40:15 Europe/Helsinki] PHP Fatal error:  Class 'kartik\file\FileInput' not found in /home/novafaza/public_html/subdomains/saladapp/views/store-planogram/create.php on line 30
+[03-Sep-2015 10:45:47 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
+[03-Sep-2015 12:34:35 Europe/Helsinki] PHP Warning:  The use statement with non-compound name 'Yii' has no effect in /home/novafaza/public_html/subdomains/saladapp/views/admin/index.php on line 2
